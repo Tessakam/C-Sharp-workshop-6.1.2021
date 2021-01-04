@@ -3,14 +3,12 @@
 ### What is C#?  
 ###### (pronounced "see sharp") 
 C# is an object-oriented programming language. It was developed around 2000 by Microsoft and is currently on version 7.0. that runs on the .NET Framework.
-With .NET, you can use multiple languages, editors, and libraries to build for web, mobile, desktop, gaming,... Whether you’re working in C#, F#, or Visual Basic,
-your code will run natively on any compatible OS.
  
 ### Why should you learn C#?
 - C# gives you an excellent programming foundation
 - C# is employable, meaning C# is the basis for a lot of jobs hiring
 - C# is highly versatile, and can be used to create a ton of projects for mobile apps, cloud-based services, enterprise software and games.
-- Application built upon C#: Adobe Photoshop, Mozilla Firefox, MySQL Server, Illustrator, ...
+- Applications built upon C#: Adobe Photoshop, Mozilla Firefox, MySQL Server, Illustrator, ...
 
 Convinced? Let's start! 🤓
 
