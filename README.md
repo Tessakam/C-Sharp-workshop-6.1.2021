@@ -23,7 +23,7 @@ Download [Visual Studio Code] (compact version of VS 2019)
 - Data types and variable names
 
 ### Our First C# Program
-- Introduction to Visual studio and forms (only for Windows)
+- Introduction to Visual studio and forms
 - Let's create a program where we show today's date and it calculate your age!
 
 ### Your turn!
