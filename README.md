@@ -42,6 +42,7 @@ Good luck 💪
 - https://www.freecodecamp.org/news/csharp/
 
 </details>
+
 [Visual Studio 2019 - Community]: https://visualstudio.microsoft.com/downloads/
 [Visual Studio Code]: https://code.visualstudio.com/download
 [This tutorial]: https://www.freecodecamp.org/news/how-to-build-an-spa-with-vuejs-and-c-using-net-core/
