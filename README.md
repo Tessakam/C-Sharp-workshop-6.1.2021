@@ -16,7 +16,8 @@ Convinced? Let's start! 🤓
 Download [Visual Studio 2019 - Community]
 
 ### Installation Linux or Mac
-Download [Visual Studio Code] (compact version of VS 2019)
+Download [Visual Studio Code] and the [C# extension]
+Download [.NET]
 
 ### Basics
 - Console.WriteLine() and Console.Readline()
@@ -64,5 +65,9 @@ You can do it! 🦸
 </details>
 
 [Visual Studio 2019 - Community]: https://visualstudio.microsoft.com/downloads/
+[C# extension]: https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp
+
 [Visual Studio Code]: https://code.visualstudio.com/download
 [This tutorial]: https://www.freecodecamp.org/news/how-to-build-an-spa-with-vuejs-and-c-using-net-core/
+[.NET]: https://dotnet.microsoft.com/download
+
