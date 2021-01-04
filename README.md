@@ -23,14 +23,31 @@ Download [Visual Studio Code] (compact version of VS 2019)
 - Data types and variable names
 
 ### Our First C# Program
-Introduction to Visual studio and forms (only for Windows)
-Let's create a program where we show today's date and it calculate your age!
+- Introduction to Visual studio and forms (only for Windows)
+- Let's create a program where we show today's date and it calculate your age!
 
 ### Your turn!
-For Windows users: let's create your first ASP.NET MVC project in Visual Studio.
-The goal? Merge 2 PDF files into 1 PDF file
+#### For Windows users
+- Let's create your first ASP.NET MVC project in Visual Studio. 
+- The goal? Merge 2 PDF files into 1 PDF file.
+- You can use the 2 example PDF's in this respository
 
-For Linux or Mac users: 
+1. Create an ASP.NET MVC project. For doing that, just click File - New - Project.
+2. A new dialog will pop up, select Console Application and give it a name (for example: MergePDF)
+3. The Program.cs class will open and you will see a blank main class. 
+4. Install the iTextSharp's Nuget Package
+- Right click on References in Solution explorer and select "Manage Nuget Package" 
+- Type "iTextSharp" in search box and install
+5. Open file MergePDF.cs in this repo and copy/paste the code in your VS code
+6. Try to complete the missing code (see comments)
+5  Can you merge the 2 PDF's into 1? Test it out!
+
+
+#### For Linux or Mac users: 
+Let's create a Superhero guessing game.
+1. Open file GuessTheSuperhero in this repository.
+2. Copy/paste in your Visual Studio Code
+3. Try to complete the missing code (see comments)
 
 Good luck 💪
 
