@@ -40,7 +40,7 @@ Download [Visual Studio Code] (compact version of VS 2019)
 - Type "iTextSharp" in search box and install
 5. Open file MergePDF.cs in this repo and copy/paste the code in your VS code
 6. Try to complete the missing code (see comments)
-5  Can you merge the 2 PDF's into 1? Test it out!
+7. Can you merge the 2 PDF's into 1? Test it out!
 
 
 #### For Linux or Mac users: 
