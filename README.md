@@ -10,6 +10,9 @@ C# is an object-oriented programming language. It was developed around 2000 by M
 - C# is highly versatile, and can be used to create a ton of projects for mobile apps, cloud-based services, enterprise software and games.
 - Applications built upon C#: Adobe Photoshop, Mozilla Firefox, MySQL Server, Illustrator, ...
 
+![Ranking programming languages](Ranking programming languages.png){ width=50% }
+
+
 Convinced? Let's start! 🤓
 
 ### Installation for Windows
