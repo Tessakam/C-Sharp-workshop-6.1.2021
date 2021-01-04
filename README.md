@@ -40,7 +40,9 @@ Download [Visual Studio Code] (compact version of VS 2019)
 - Type "iTextSharp" in search box and install
 5. Open file MergePDF.cs in this repo and copy/paste the code in your VS code
 6. Try to complete the missing code (see comments)
-7. Can you merge the 2 PDF's into 1? Test it out!
+7. Can you merge the 2 PDF's into 1? 
+
+Test it out! Good luck 💪
 
 
 #### For Linux or Mac users: 
@@ -49,7 +51,8 @@ Let's create a Superhero guessing game.
 2. Copy/paste in your Visual Studio Code
 3. Try to complete the missing code (see comments)
 
-Good luck 💪
+You can do it! 🦸
+
 
 ### Extra challenge: combine Vue.js and C#
 [This tutorial] will guide you, step-by-step, in building a modern single page application (SPA) that will take advantage of Vue.js for the front-end and .NET Core (C#) for the back-end. 
