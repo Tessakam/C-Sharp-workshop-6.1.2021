@@ -10,9 +10,6 @@ C# is an object-oriented programming language. It was developed around 2000 by M
 - C# is highly versatile, and can be used to create a ton of projects for mobile apps, cloud-based services, enterprise software and games.
 - Applications built upon C#: Adobe Photoshop, Mozilla Firefox, MySQL Server, Illustrator, ...
 
-![Ranking programming languages](Ranking programming languages.png){ width=50% }
-
-
 Convinced? Let's start! 🤓
 
 ### Installation for Windows
@@ -33,7 +30,7 @@ Download [.NET]
 ### Your turn!
 #### For Windows users
 - Let's create your first ASP.NET MVC project in Visual Studio. 
-- The goal? Merge 2 PDF files into 1 PDF file.
+- The goal? Merge 2 PDF files into 1 new PDF file.
 - You can use the 2 example PDF's in this respository
 
 1. Create an ASP.NET MVC project. For doing that, just click File - New - Project.
