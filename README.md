@@ -29,11 +29,11 @@ Download [.NET]
 
 ### Your turn!
 #### For Windows users
-- Let's create your first ASP.NET MVC project in Visual Studio. 
+- Let's create your first Console App (.Net Core) project in Visual Studio. 
 - The goal? Merge 2 PDF files into 1 new PDF file.
 - You can use the 2 example PDF's in this respository
 
-1. Create an ASP.NET MVC project. For doing that, just click File - New - Project.
+1. Create an Console App (.Net Core) project. For doing that, just click File - New - Project.
 2. A new dialog will pop up, select Console Application and give it a name (for example: MergePDF)
 3. The Program.cs class will open and you will see a blank main class. 
 4. Install the iTextSharp's Nuget Package
